@@ -1,0 +1,377 @@
+{
+    "about-cards": [
+        {
+            "id": 1,
+            "icon": "fa-solid fa-lightbulb",
+            "title": "Creative",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 2,
+            "icon": "fa-solid fa-trophy",
+            "title": "Winner",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 3,
+            "icon": "fa-solid fa-glasses",
+            "title": "Smart",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 4,
+            "icon": "fa-solid fa-bolt",
+            "title": "Powerful",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 5,
+            "icon": "fa-solid fa-life-ring",
+            "title": "Helper",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 6,
+            "icon": "fa-solid fa-face-smile",
+            "title": "Intelligent",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 7,
+            "icon": "fa-solid fa-gamepad",
+            "title": "Gamer",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 8,
+            "icon": "fa-solid fa-heart-pulse",
+            "title": "Healthy",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        }
+    ],
+    "services-cards": [
+        {
+            "id": 1,
+            "icon": "fa-solid fa-lightbulb",
+            "title": "Photography",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 2,
+            "icon": "fa-solid fa-trophy",
+            "title": "Coding",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 3,
+            "icon": "fa-solid fa-glasses",
+            "title": "Creativity",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 4,
+            "icon": "fa-solid fa-bolt",
+            "title": "Web Design",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 5,
+            "icon": "fa-solid fa-lightbulb",
+            "title": "Photography",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 6,
+            "icon": "fa-solid fa-trophy",
+            "title": "Coding",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 7,
+            "icon": "fa-solid fa-glasses",
+            "title": "Creativity",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        },
+        {
+            "id": 8,
+            "icon": "fa-solid fa-bolt",
+            "title": "Web Design",
+            "info": "Ut aboramus, numquam corpora qui naex. Dolore aliquando id duo, voluptua laboramus quo ad."
+        }
+    ],
+    "portfolio": [
+        {
+            "id": 1,
+            "img": "./src/assets/img/portfolio/1.jpg",
+            "slide": {
+                "img1": "https://media.architecturaldigest.com/photos/57c7003fdc03716f7c8289dd/16:9/w_1280,c_limit/IMG%20Worlds%20of%20Adventure%20-%201.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": true,
+            "tech": true,
+            "photography": true
+        },
+        {
+            "id": 2,
+            "img": "./src/assets/img/portfolio/2.jpg",
+            "slide": {
+                "img1": "./src/assets/img/portfolio/1.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": true,
+            "tech": true,
+            "photography": false
+
+        },
+        {
+            "id": 3,
+            "img": "./src/assets/img/portfolio/3.jpg",
+            "slide": {
+                "img1": "./src/assets/img/portfolio/1.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": false,
+            "tech": true,
+            "photography": false
+
+        },
+        {
+            "id": 4,
+            "img": "./src/assets/img/portfolio/4.jpg",
+            "slide": {
+                "img1": "./src/assets/img/portfolio/1.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": false,
+            "tech": false,
+            "photography": true
+
+        },
+        {
+            "id": 5,
+            "img": "./src/assets/img/portfolio/5.jpg",
+            "slide": {
+                "img1": "./src/assets/img/portfolio/1.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": false,
+            "tech": true,
+            "photography": true
+
+        },
+        {
+            "id": 6,
+            "img": "./src/assets/img/portfolio/6.jpg",
+            "slide": {
+                "img1": "./src/assets/img/portfolio/1.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": true,
+            "tech": false,
+            "photography": false
+
+        },
+        {
+            "id": 7,
+            "img": "./src/assets/img/portfolio/7.jpg",
+            "slide": {
+                "img1": "./src/assets/img/portfolio/1.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": true,
+            "tech": false,
+            "photography": false
+
+        },
+        {
+            "id": 8,
+            "img": "./src/assets/img/portfolio/8.jpg",
+            "slide": {
+                "img1": "./src/assets/img/portfolio/1.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": true,
+            "tech": false,
+            "photography": true
+
+        },
+        {
+            "id": 9,
+            "img": "./src/assets/img/portfolio/9.jpg",
+            "slide": {
+                "img1": "./src/assets/img/portfolio/1.jpg",
+                "img2": "./src/assets/img/portfolio/2.jpg",
+                "img3": "./src/assets/img/portfolio/3.jpg",
+                "img4": "./src/assets/img/portfolio/4.jpg"
+            },
+            "moreInfo": {
+                "source": "Themeforest.net",
+                "date": "2015, June",
+                "takenTime": "3 Weeks",
+                "info": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Ex atqui voluptatibus eum, cu case. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum",
+                "challenge": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum.",
+                "solution": "No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eu. Ex atqui voluptatibus eum, cu case intellegebat eum."
+            },
+            "title": "Project Title",
+            "web": true,
+            "tech": true,
+            "photography": false
+
+        }
+    ],
+    "posts": [
+        {   
+            "id": 1, 
+            "img": "./src/assets/img/portfolio/1.jpg",
+            "title": "Simple Post With Image",
+            "person": "Johny Doe",
+            "date": "14 June 2015",
+            "messages": 5,
+            "shortInfo": "Cu illud lorem putent vel. Eum in movet nostrum referrentur. His ne tantas tractatos. Sit eu saperet antiopam scripserit. Ei albucius consequuntur sea, no nominavi fabellas phaedrum his....",
+            "moreInfo": "Cu illud lorem putent vel. Eum in movet nostrum referrentur. His ne tantas tractatos. Sit eu saperet antiopam scripserit. Ei albucius consequuntur sea, no nominavi fabellas phaedrum his.No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Pri ei solet graecis. Ea appetere referrentur vituperatoribus cum, vix sanctus meliore cu. Nec in sale prima nostrud. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque.No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Pri ei solet graecis. Ea appetere referrentur vituperatoribus cum, vix sanctus meliore cu. Nec in sale prima nostrud."
+
+        },
+        {   
+            "id": 2, 
+            "img": "./src/assets/img/portfolio/1.jpg",
+            "title": "Simple Post With Image",
+            "person": "Johny Doe",
+            "date": "14 June 2015",
+            "messages": 5,
+            "shortInfo": "Cu illud lorem putent vel. Eum in movet nostrum referrentur. His ne tantas tractatos. Sit eu saperet antiopam scripserit. Ei albucius consequuntur sea, no nominavi fabellas phaedrum his....",
+            "moreInfo": "Cu illud lorem putent vel. Eum in movet nostrum referrentur. His ne tantas tractatos. Sit eu saperet antiopam scripserit. Ei albucius consequuntur sea, no nominavi fabellas phaedrum his.No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Pri ei solet graecis. Ea appetere referrentur vituperatoribus cum, vix sanctus meliore cu. Nec in sale prima nostrud. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque.No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Pri ei solet graecis. Ea appetere referrentur vituperatoribus cum, vix sanctus meliore cu. Nec in sale prima nostrud."
+
+        },
+        {   
+            "id": 3, 
+            "img": "./src/assets/img/portfolio/1.jpg",
+            "title": "Simple Post With Image",
+            "person": "Johny Doe",
+            "date": "14 June 2015",
+            "messages": 5,
+            "shortInfo": "Cu illud lorem putent vel. Eum in movet nostrum referrentur. His ne tantas tractatos. Sit eu saperet antiopam scripserit. Ei albucius consequuntur sea, no nominavi fabellas phaedrum his....",
+            "moreInfo": "Cu illud lorem putent vel. Eum in movet nostrum referrentur. His ne tantas tractatos. Sit eu saperet antiopam scripserit. Ei albucius consequuntur sea, no nominavi fabellas phaedrum his.No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Pri ei solet graecis. Ea appetere referrentur vituperatoribus cum, vix sanctus meliore cu. Nec in sale prima nostrud. No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque.No dolorem blandit theophrastus eos, nam eu persecuti repudiandae, duo hinc vide aliquip et. Ex atqui voluptatibus eum, cu case intellegebat eum, mea ex regione patrioque signiferumque. Pri ei solet graecis. Ea appetere referrentur vituperatoribus cum, vix sanctus meliore cu. Nec in sale prima nostrud."
+
+        }
+    ],
+    "skills": [
+        {
+            "id":1,
+            "skillName": "HTML/CSS",
+            "percent": 90
+        },
+        {
+            "id":2,
+            "skillName": "JS",
+            "percent": 75
+        },
+        {
+            "id":3,
+            "skillName": "React JS",
+            "percent": 80
+        },
+        {
+            "id":4,
+            "skillName": "Redux Toolkit",
+            "percent": 70
+        },
+        {
+            "id":5,
+            "skillName": "Vue JS",
+            "percent": 80
+        },
+        {
+            "id":6,
+            "skillName": "Pinia",
+            "percent": 90
+        }
+    ]
+}
